@@ -104,7 +104,7 @@ To run this project locally, ensure you have the following installed:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/MayurChaudhari007/Plant-Disease-Prediction.git
+git clone https://github.com/AasthaSachdeva29/Plant-Disease-Detector.git
 cd Plant-Disease-Prediction
 ```
 
